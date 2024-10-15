@@ -129,7 +129,7 @@ start
 stop
 update
 createuser
-listuser
+listusers
 deleteuser
 help
 
